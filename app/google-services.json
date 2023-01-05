@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "818180875819",
+    "firebase_url": "https://ch04-01-fb-wr-ydemo23-default-rtdb.firebaseio.com",
+    "project_id": "ch04-01-fb-wr-ydemo23",
+    "storage_bucket": "ch04-01-fb-wr-ydemo23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818180875819:android:cd2497e5dd8ce7f4032c6e",
+        "android_client_info": {
+          "package_name": "com.demo.android.ch04_01_fb_wr_ydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818180875819-3h2c63hsp82b4rg1ic0r3fvm73vo4m0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWOQxeOo8kOT2hXL9zSlrIFcPAWvrWuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818180875819-3h2c63hsp82b4rg1ic0r3fvm73vo4m0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818180875819:android:319993730733b1e0032c6e",
+        "android_client_info": {
+          "package_name": "com.demo.android.ch04_02_fb_register_login_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818180875819-3h2c63hsp82b4rg1ic0r3fvm73vo4m0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWOQxeOo8kOT2hXL9zSlrIFcPAWvrWuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818180875819-3h2c63hsp82b4rg1ic0r3fvm73vo4m0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818180875819:android:a7fd76b10e0a89ef032c6e",
+        "android_client_info": {
+          "package_name": "com.demo.android.ch04_07_fb_create_artist_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818180875819-3h2c63hsp82b4rg1ic0r3fvm73vo4m0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWOQxeOo8kOT2hXL9zSlrIFcPAWvrWuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818180875819-3h2c63hsp82b4rg1ic0r3fvm73vo4m0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ch04_10_FB_Delete_Artist_Demo</string>
+
+    <array name="genres">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Sufi</item>
+        <item>Folk</item>
+    </array>
+</resources>
